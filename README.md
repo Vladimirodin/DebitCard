@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qocuwvbogdn05f8u?svg=true)](https://ci.appveyor.com/project/Vladimirodin/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/mrbos03uil4cltix?svg=true)](https://ci.appveyor.com/project/Vladimirodin/debitcard)
